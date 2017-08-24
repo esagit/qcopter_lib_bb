@@ -1,0 +1,29 @@
+Partlist exported from C:/Users/Esa/Documents/eagle/qcopter_lib_bb/qcopter_lib_bb.sch at 24.8.2017 9.58
+
+Part Value                Device           Package           Description                                       MPN              OC_FARNELL OC_NEWARK PACKAGE        SUPPLIER  TOLERANCE VALUE VOLTAGERATING
+C1   10UF                 ECA1EHG470-D5XP2 CAPPR200-500X1100 Aluminum Electrolytic Capacitors/Radial Lead Type ECA1EHG470       1848541    17T5002   Radial Lead-TH PANASONIC ±20 %     47UF  25V          
+C2   0.33F                C5/2.5           C5B2.5            CAPACITOR                                                                                                                                     
+C3   10UF                 ECA1EHG470-D5XP2 CAPPR200-500X1100 Aluminum Electrolytic Capacitors/Radial Lead Type ECA1EHG470       1848541    17T5002   Radial Lead-TH PANASONIC ±20 %     47UF  25V          
+C4   0.1UF                C5/2.5           C5B2.5            CAPACITOR                                                                                                                                     
+C5   0.1UF                C5/2.5           C5B2.5            CAPACITOR                                                                                                                                     
+C6   0.1UF                C5/2.5           C5B2.5            CAPACITOR                                                                                                                                     
+C7   0.1UF                C5/2.5           C5B2.5            CAPACITOR                                                                                                                                     
+JP1                       PINHD-2X3        2X03              PIN HEADER                                                                                                                                    
+JP2                       PINHD-2X6/90     2X06/90           PIN HEADER                                                                                                                                    
+JP3                       PINHD-2X16       2X16              PIN HEADER                                                                                                                                    
+JP4                       PINHD-1X4        1X04              PIN HEADER                                                                                                                                    
+JP5                       PINHD-2X3        2X03              PIN HEADER                                                                                                                                    
+JP6                       PINHD-2X3        2X03              PIN HEADER                                                                                                                                    
+JP7  +11V                 PINHD-1X1        1X01              PIN HEADER                                                                                                                                    
+JP8                       PINHD-1X1        1X01              PIN HEADER                                                                                                                                    
+JP9                       PINHD-1X1        1X01              PIN HEADER                                                                                                                                    
+JP10                      PINHD-1X1        1X01              PIN HEADER                                                                                                                                    
+Q1   MCP1702-3302E/TO     MCP1702-3302E/TO TO127P254X533-3   IC, V REG, LDO, 250MA                             MCP1702-3302E/TO 1331485    34M7419   TO-92          Microchip                              
+R1   330R                 R-EU_0207/10     0207/10           RESISTOR, European symbol                                                                                                                     
+R2   10K                  R-EU_0207/10     0207/10           RESISTOR, European symbol                                                                                                                     
+R3   1K0                  R-EU_0207/10     0207/10           RESISTOR, European symbol                                                                                                                     
+R4   1K0                  R-EU_0207/10     0207/10           RESISTOR, European symbol                                                                                                                     
+R5   150K                 R-EU_0207/10     0207/10           RESISTOR, European symbol                                                                                                                     
+R6   56K                  R-EU_0207/10     0207/10           RESISTOR, European symbol                                                                                                                     
+U1   74HC4050N            74HC4050N        DIP254P762X420-16 Hex high-to-low level shifter,DIP-16              74HC4050N        380908     07WX3736  DIP-16         NXP                                    
+XB1  Libelium LoRa SX1272 SX1272-LORA      XBEE                                                                                                                                                            
